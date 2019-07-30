@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "559886939702",
+    "firebase_url": "https://emovu-3c730.firebaseio.com",
+    "project_id": "emovu-3c730",
+    "storage_bucket": "emovu-3c730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559886939702:android:8733d8472a99a65c",
+        "android_client_info": {
+          "package_name": "com.emovu.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559886939702-ldbqp5c46oqd9mvrddie3erskf5mck79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emovu.debug",
+            "certificate_hash": "250828131f31ace85df48e0f8bb74343f0c8b0f1"
+          }
+        },
+        {
+          "client_id": "559886939702-a365ksi9g9rj63bi2dr0kjkddq2l15db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_LBOBTpmworJVQrVqog8KVwN4zwtjVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559886939702-a365ksi9g9rj63bi2dr0kjkddq2l15db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
